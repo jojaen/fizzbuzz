@@ -1,17 +1,6 @@
----
-name: Sprint Backlog
-about: 할일 추가시 사용할 것, 템플릿의 내용대로 충실히 작성할 것
-title: ''
-labels: enhancement
-assignees: ''
-
----
-
 ## Description
-
+반복문과 조건문으로 fizzbuzz를 작성하겠습니다
 ## Tasks
-
--[ ] Item
--[ ] Item
+-[ ] fizzbuzz
 
 ## Reference
